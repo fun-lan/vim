@@ -1,2 +1,3 @@
 # vim
-Vim and NeoVim support for Funny
+
+Vim and NeoVim support for the Funny Programming Lanuage.
